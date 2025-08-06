@@ -2,7 +2,7 @@
 
 I'm studying the third period of internet systems at the Federal Institute of Maranhão, Timon campus
 
-I work every day to develop myself as a back end developer
+I work every day to develop myself as a full stack developer
 
 <div>
   <a href="https://github.com/LPeter-nm">
