@@ -33,6 +33,6 @@
 > 🎓 **Esta é minha conta principal**, dedicada a projetos pessoais e alguns realizado no curso superior de Sistemas para Internet no IFMA - campus Timon.
 > Para ver meus projetos realizados no meu curso superior atual de Inteligência Artificial, acesse minha conta secundária:
 
-### 🔗 [→ Ir para minha conta principal no GitHub](https://github.com/LPeter-nmPITAccount)
+### 🔗 [→ Ir para minha conta acadêmica no GitHub](https://github.com/LPeter-nmPITAccount)
 
 </div>
