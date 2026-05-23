@@ -1,17 +1,8 @@
-`Hi, I’m Pedro Gabriel` 
+`Olá, sou Pedro Gabriel` 
 
-I'm studying the third period of internet systems at the Federal Institute of Maranhão, Timon campus
-
-I work every day to develop myself as a full stack developer
-
-<div>
-  <a href="https://github.com/LPeter-nm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LPeter-nm&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPeter-nm&layout=donut&theme=dark"/>
-</div>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Seja+Bem+vindo+ao+meu+perfil+principal+👋;Sou+estudante+da+Piauí+Instituto+de+Tecnologia+(PIT);Sou+colaborador+da+DPL+Construções;Aqui+registro+minha+jornada+profissional.;Aprendendo+e+evoluindo+todos+os+dias+🚀)](https://git.io/typing-svg)
 <br>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=LPeter-nm&theme=tokyonight-duo&hide_border=true&locale=pt_BR&card_width=1020)](https://git.io/streak-stats)
 <div>
     <h1>Social</h1>
     <a href="https://www.instagram.com/pedin_nm/" target="_blank" > <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
@@ -34,4 +25,14 @@ I work every day to develop myself as a full stack developer
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</div>
+
+<br>
+<div align="center">
+
+> 🎓 **Esta é minha conta principal**, dedicada a projetos pessoais e alguns realizado no curso superior de Sistemas para Internet no IFMA - campus Timon.
+> Para ver meus projetos realizados no meu curso superior atual de Inteligência Artificial, acesse minha conta secundária:
+
+### 🔗 [→ Ir para minha conta principal no GitHub](https://github.com/LPeter-nmPITAccount)
+
 </div>
